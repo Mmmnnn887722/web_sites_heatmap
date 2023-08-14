@@ -16,6 +16,8 @@
  - sample of data in zip file, to run the code, that contains 2 csv file:
      - web_dat : scroll data 
      - iMotion data : 001_zaid
+- web_page files, that contains multiple of web sites screen shoots saved before, 
+please unzip this filr and modify it's path in the code to be the directory in your machine
 
 ## Objective and Functionality
   The primary objectives of the script are: 
