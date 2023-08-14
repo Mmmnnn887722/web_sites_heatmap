@@ -2,8 +2,8 @@
 
 ## Prerequisites
 
-Ensure you have Python 3.x installed on your machine. 
-The required dependencies for this project are listed in the requirements.txt file.
+- Ensure you have Python 3.x installed on your machine. 
+- The required dependencies for this project are listed in the requirements.txt file.
 
 ## Installation
 
@@ -14,8 +14,8 @@ The required dependencies for this project are listed in the requirements.txt fi
  - Python script
  - requirments.txt file 
  - sample of data in zip file, to run the code, that contains 2 csv file:
-     1- web_dat : scroll data 
-     2- iMotion data : 001_zaid
+     - web_dat : scroll data 
+     - iMotion data : 001_zaid
 
 ## Objective and Functionality
   The primary objectives of the script are: 
